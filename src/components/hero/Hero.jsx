@@ -7,7 +7,7 @@ const Hero = () => {
     setShowErrorModal(false);
   };
   const handleRedirect = () => {
-    window.location.href = 'https://demondev2.github.io/DoNotEnter'; // Your redirect URL
+    window.location.href = 'https://EthanF1030.github.io/DoNotEnter'; // Your redirect URL
   };
 
   return (
